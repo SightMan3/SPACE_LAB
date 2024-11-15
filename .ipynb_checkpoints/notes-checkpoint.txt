@@ -1,0 +1,23 @@
+First document andrejkova
+
+    Fuzzy networks - neuro-fuzzy classifier
+        fuzzy logic
+        not using boolean values, but using degree of truth
+
+    data 1980 - 1984 | 1989 - 1992
+
+Second odcument andrejkova
+
+    genetic algorithms
+        canonical genetic algorithms
+        strings
+        chromosomes
+        for generating starting weigths and thresholds
+        instead of BackPropagation (BP)
+        after GA finds nearly optimal weights, than BP finds optimal
+
+Third Document andrejkova
+
+    RNNs - recurrent neural networks
+    
+        

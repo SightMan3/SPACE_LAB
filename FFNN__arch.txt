@@ -1,0 +1,15 @@
+            Bz, sBz,  n,   m
+      B     8    8    8    8
+
+            -------2 6-------
+                    |
+                    1
+
+
+
+input array = [bz1,  bz2,  bz3,  bz4,  bz5,  bz6,  bz7,  bz8,
+               sbz1, sbz2, sbz3, sbz4, sbz5, sbz6, sbz7, sbz8,
+               n1,   n2,   n3,   n4,   n5,   n6,   n7,   n8,
+               v1,   v2,   v3,   v4,   v5,   v6,   v7,   v8]
+
+
